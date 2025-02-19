@@ -1,0 +1,57 @@
+1. Game Description: A captivating adventure challenging players to protect and conquer 7 wild animals while pursuing the goal of returning a precious golden stool to the Ashanti kingdom. I Constructed upon the initial code framework given by the Reed CS academic department, offering best wishes for an enjoyable gaming experience!!!
+
+2. Drop Command: I made it so players can throw away stuff they don’t want in their inventory.
+
+3. Wait Command: I added a way to pause the game for a little while.
+
+4. Status/me Command: I made a screen that shows all the cool details about your character.
+
+5. Healing Mechanism: I added a way to heal your character, but you can only use it a few times to get full health.
+
+6. Input Validation: I made sure the game doesn’t break when you type random stuff and asks you to try again.
+
+7. Wildlife Diversity: I added lots of different animals with their own health, names, places they show up, and how strong or angry they are.
+
+8. Enhanced Player Characteristics: I gave the player more stats and settings to make them cooler.
+
+9. Weapon Arsenal: I made a bunch of weapons like a rifle, knife, trident, stone, firewood, sword, and shield.
+
+10. Damage Mitigation: I added shields to block some of the damage when you get hit.
+
+11. Nutritional Mechanics: I made fish you can eat to get more health.
+
+12. Victory Conditions: I made rules for how to beat wild animals and win.
+
+13. Reward System: I made a FreeGift thing that gives you rewards when you defeat animals.
+
+14. Item Distribution: I set up a system that spreads out items randomly around the game.
+
+15. Narrative Introduction: I made a story intro and fixed the help guide so it’s better.
+
+16. Inspection Command: I added a way to look closely at stuff in the game.
+
+17. Combat Interaction: I made a way for players to attack or defend themselves.
+
+18. Animal Aggression: I gave the animals different moods so they attack based on how aggressive they are.
+
+19. Progression System: I made a leveling-up system so you can get stronger and have more health when you win challenges.
+
+20. Expanded Gameworld: I made the game bigger with 9 different places to explore.
+
+21. Inventory Limitations: I made it so you can only carry 7 things at once.
+
+22. Damage Tracking: I added a way to show how much damage you’ve taken.
+
+23. Consumable Mechanics: I made a way to eat fish to stay healthy.
+
+24. Command Optimization: I made shorter commands so you can play faster.
+
+25. Weapon Management: I added ways to see what weapons you have and use them easily.
+
+26. Checkpoint Restrictions: I locked some places until you beat certain animals.
+
+27. Defensive Equipment: I made shields that you can use in fights.
+
+28. Item Stacking: I added a way to stack the same items in your inventory.
+
+Bon appétit!
